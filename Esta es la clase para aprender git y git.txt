@@ -1,3 +1,4 @@
-Esta es la clase para aprender git y github, usando este txt comenzaré a aprender ahora si cómo se maneja este gestor de aplicaciones
-Esta es una segunda linea porque no quiero un archivo de solo una linea
+Esta es la clase para aprender git y github,
+usando este txt comenzaré a aprender ahora si cómo se maneja este gestor de aplicaciones
+Esta es una tercera linea porque no quiero un archivo de solo dos linea
 Esta es la ultima linea solo para rellenar
